@@ -1,0 +1,3 @@
+repository "magnet/magnet@13469779755353@cloud"
+  path "/"
+    smartbranch "/main/game"
